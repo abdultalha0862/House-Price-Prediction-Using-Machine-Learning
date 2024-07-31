@@ -9,8 +9,6 @@ In this project, our focus is on predicting house prices using machine learning.
 - [Dataset](#dataset)
 - [Models Used](#models-used)
 - [Installation](#installation)
-
-- [Results and Visualizations](#results-and-visualizations)
 - [Model Comparison](#model-comparison)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
